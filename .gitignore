@@ -4,7 +4,7 @@
 # Hexo
 source/uploads
 source/public
-public/
+# public/
 db.json
 _config.yml
 
