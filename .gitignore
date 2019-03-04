@@ -1,6 +1,11 @@
-_config.yml
+# MacOS
 .DS_Store
+
+# Hexo
 source/uploads
+source/public
+db.json
+_config.yml
 
 # Logs
 logs
