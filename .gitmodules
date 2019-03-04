@@ -1,0 +1,18 @@
+[submodule "themes/landscape"]
+	path = themes/landscape
+	url = https://github.com/hexojs/hexo-theme-landscape.git
+[submodule "themes/alpha-dust"]
+	path = themes/alpha-dust
+	url = https://github.com/klugjo/hexo-theme-alpha-dust
+[submodule "themes/cyanstyle"]
+	path = themes/cyanstyle
+	url = https://github.com/wizardforcel/hexo-theme-cyanstyle.git
+[submodule "themes/jekyll"]
+	path = themes/jekyll
+	url = https://gitlab.com/lorepirri/jekyll-theme-simple-blog
+[submodule "themes/material"]
+	path = themes/material
+	url = https://github.com/viosey/hexo-theme-material.git
+[submodule "themes/spectre"]
+	path = themes/spectre
+	url = https://github.com/neofelhz/hexo-theme-spectre.git
