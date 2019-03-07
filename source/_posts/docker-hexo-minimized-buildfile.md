@@ -1,3 +1,4 @@
+---
 title: How to build a minimized docker image for Hexo
 tags: docker
 date: 2018-04-20 10:07:43
