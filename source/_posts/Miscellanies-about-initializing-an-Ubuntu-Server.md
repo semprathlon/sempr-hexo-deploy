@@ -1,3 +1,4 @@
+---
 title: Miscellanies about initializing an Ubuntu Server
 author: Semprathlon / Simfae Dean
 tags: []

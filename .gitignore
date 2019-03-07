@@ -6,6 +6,7 @@ source/uploads
 source/public
 public/
 db.json
+package-lock.json
 _config.yml
 .deploy_git/
 
