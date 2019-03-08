@@ -13,3 +13,15 @@
 [submodule "themes/spectre"]
 	path = themes/spectre
 	url = https://github.com/neofelhz/hexo-theme-spectre.git
+[submodule "themes/matery"]
+	path = themes/matery
+	url = https://github.com/blinkfox/hexo-theme-matery
+[submodule "themes/typescript"]
+	path = themes/typescript
+	url = https://github.com/artchen/hexo-theme-typescript
+[submodule "themes/one"]
+	path = themes/one
+	url = https://github.com/EYHN/hexo-theme-one
+[submodule "themes/paperbox"]
+	path = themes/paperbox
+	url = https://github.com/sun11/hexo-theme-paperbox
