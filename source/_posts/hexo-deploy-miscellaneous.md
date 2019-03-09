@@ -1,7 +1,10 @@
 ---
 title: Miscellanies about Hexo deployment with purification
 date: 2019-03-04 21:45:59
-tags: hexo; git; npm
+tags: 
+    - hexo
+    - git
+    - npm
 ---
 
 - Git add submodule reference
