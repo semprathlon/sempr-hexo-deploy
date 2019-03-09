@@ -24,7 +24,7 @@
 	url = https://github.com/EYHN/hexo-theme-one
 [submodule "themes/paperbox"]
 	path = themes/paperbox
-	url = https://github.com/sun11/hexo-theme-paperbox
+	url = https://github.com/CitruXonve/hexo-theme-paperbox
 [submodule "themes/landscape-plus"]
 	path = themes/landscape-plus
 	url = https://github.com/xiangming/landscape-plus
