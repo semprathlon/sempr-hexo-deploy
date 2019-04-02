@@ -11,3 +11,12 @@ tags:
 - Material Design
 
     Indeed, If you have interest where I found this colors you can visit www.android.com and then look up their documentation for material design and there, they have suggestions for how colors can be used in your Android application but the same thing applies even to a website.
+
+- Column classes
+
+    - col, col-x, col-auto
+    - col-xx-x
+    - order-xx-first/last
+    - offset-xx-x
+
+- Button class `btn-block`
