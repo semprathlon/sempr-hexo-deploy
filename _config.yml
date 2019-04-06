@@ -74,7 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape-plus
-theme: paperbox
+# theme: paperbox
+theme: icarus
 
 
 # Deployment
@@ -101,25 +102,29 @@ deploy:
 theme_config: 
   # landscape-plus
   # Links
-  links:
-    Function: https://funactional.github.io/
-    kuangbin: http://www.kuangbin.net/
-    hzwer: http://hzwer.com/
-    tsyao: http://tsyao.tk/
-    氢酱: http://c.ejq.me/
-    CoderUnion: http://coderunion.github.io/
-    当轩: https://github.com/dangxuandev
-    SimplyY: https://zhuanlan.zhihu.com/simplyy
-    xen0n: http://blog.xen0n.name/
-    NaturalL: https://github.com/NaturalL
+  # links:
+  #   Function: https://funactional.github.io/
+  #   kuangbin: http://www.kuangbin.net/
+  #   hzwer: http://hzwer.com/
+  #   tsyao: http://tsyao.tk/
+  #   氢酱: http://c.ejq.me/
+  #   CoderUnion: http://coderunion.github.io/
+  #   当轩: https://github.com/dangxuandev
+  #   SimplyY: https://zhuanlan.zhihu.com/simplyy
+  #   xen0n: http://blog.xen0n.name/
+  #   NaturalL: https://github.com/NaturalL
+  #   闪烁之狐: https://blinkfox.github.io/
+  #   幻想帖: https://huaji8.top/
+  #   宅談: https://otakism.com/
+  #   天空之间: https://liyin.date/
 
-  # paperbox
-  blog_title: CitruXonve's another far end
-  logo_title: 
-  rss: 
-  github: https://github.com/CitruXonve
+  # # paperbox
+  # blog_title: CitruXonve's another far end
+  # logo_title: 
+  # rss: 
+  # github: https://github.com/CitruXonve
 
-  widgets:
-  - category
-  - tagcloud
-  - links
+  # widgets:
+  # - category
+  # - tagcloud
+  # - links
