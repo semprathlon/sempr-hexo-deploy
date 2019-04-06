@@ -74,8 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape-plus
-# theme: paperbox
-theme: icarus
+theme: paperbox
+# theme: icarus
 
 
 # Deployment
