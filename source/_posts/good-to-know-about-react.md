@@ -39,6 +39,10 @@ tags:
     //need to import this component for wherever we use
     ```
 
+    Every parameter pass to the component is under `props`.
+
 - JSX: wrapped React Component expression
 
 - Handling events like handling DOM elements
+
+- If one component export the default one, there is no need to enclose import component name with braces, otherwise error occurs. 

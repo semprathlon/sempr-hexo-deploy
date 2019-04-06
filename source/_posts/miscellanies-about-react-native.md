@@ -1,8 +1,9 @@
 ---
-title: miscellanies-about-react-native
+title: Miscellanies about React Native
 date: 2019-04-01 22:09:33
 tags:
     - react native
+    - iOS
 ---
 
 - [If `/android` or `/ios` is missing under project volume](https://stackoverflow.com/questions/42506068/how-can-i-regenerate-ios-folder-in-react-native-project):
