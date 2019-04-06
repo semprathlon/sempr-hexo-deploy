@@ -82,7 +82,7 @@ theme: paperbox
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:CitruXonve/devblog.git
+  repo: __DEPLOY_ACCESS_TOKEN__@github.com:CitruXonve/devblog.git
   branch: gh-pages
 
 # Math display
