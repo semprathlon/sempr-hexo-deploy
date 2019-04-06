@@ -82,7 +82,7 @@ theme: paperbox
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: __DEPLOY_ACCESS_TOKEN__@github.com:CitruXonve/devblog.git
+  repo: https://__DEPLOY_ACCESS_TOKEN__@github.com/CitruXonve/devblog.git
   branch: gh-pages
 
 # Math display
@@ -118,11 +118,11 @@ theme_config:
   #   宅談: https://otakism.com/
   #   天空之间: https://liyin.date/
 
-  # # paperbox
-  # blog_title: CitruXonve's another far end
-  # logo_title: 
-  # rss: 
-  # github: https://github.com/CitruXonve
+  # paperbox
+  blog_title: CitruXonve's another far end
+  logo_title: Development Diary
+  rss: 
+  github: https://github.com/CitruXonve
 
   # widgets:
   # - category

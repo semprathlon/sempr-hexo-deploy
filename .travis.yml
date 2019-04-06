@@ -24,7 +24,7 @@ install:
 before_script:
 - git config --global user.name 'CitruXonve'
 - git config --global user.email 'silveritdean@gmail.com'
-- sed -i "s/__DEPLOY_ACCESS_TOKEN__/${DEPLOY_ACCESS_TOKEN}/" ./_config.yml
+- sed -i "s/__DEPLOY_ACCESS_TOKEN__/$DEPLOY_ACCESS_TOKEN/" ./_config.yml
 
 script:
 - ./node_modules/.bin/hexo d -g
