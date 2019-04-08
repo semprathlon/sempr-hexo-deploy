@@ -28,6 +28,8 @@ before_script:
 - git submodule update --init
 - sed -i "s/__DEPLOY_ACCESS_TOKEN__/$DEPLOY_ACCESS_TOKEN/" ./_config.yml
 - cp ./_theme_config.yml ./themes/$SELECTED_THEME_NAME/_config.yml
+- mkdir ./public
+- echo "$CUSTOM_HOST_NAME" > ./public/CNAME
 
 script:
 - ./node_modules/.bin/hexo d -g
