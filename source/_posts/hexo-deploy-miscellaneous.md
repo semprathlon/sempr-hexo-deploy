@@ -30,7 +30,7 @@ tags:
 - [Git remove submodule reference](https://gist.github.com/myusuf3/7f645819ded92bda6677)
     ``` bash
     git submodule deinit <path_to_submodule>
-    git rm <path_to_submodule>
+    git rm [-r] [--cached] <path_to_submodule>
     git commit -m "Removed submodule"
     ```
     rm -rf .git/modules/<path_to_submodule>
