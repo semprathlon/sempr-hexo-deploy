@@ -16,6 +16,7 @@ tags:
 |PSU|FSP MS450 450W SFX|¥439|JD|New|
 |Case|CyberPowerPC Syber CSCCO100 Orange Mini ITX Gaming Case|$34.99|Gamestop|New|
 |Heat sink||||New|
+|Subtotal||~$281.5|||
 ||||||
 
 ## Division 2: A "Rig" for Computing & Rendering
@@ -30,6 +31,7 @@ tags:
 |Mobo|MSI B450M MORTAR|¥618.99|JD|Pending|
 |SSD|SAMSUNG 500GB M.2(NVMe) 970 EVO MZ-V7E500BW|¥598.99|JD|New|
 |CPU|AMD RYZEN 7 3700X w/ Wraith Prism Cooler|$324.99|Amazon|New|
+|Subtotal||~$1026|||
 ||||||
 
 Notes:
@@ -39,10 +41,12 @@ Notes:
 ### Stage 2
 |Component|Product Name|Cost|Source|Status|
 |---|---|---:|--:|--:|
-|RAM| ** The same (2 x 8GB) ** ||||
+|RAM| ** The same (2 x 8GB) ** |$154.99|Amazon|New|
 |Graphics| ** Starting from GTX1660 Super, RX 5700, RTX 2060, ... ** ||||
-|PSU| ** Better to be modular and power >= 700W **||||
-|Water Cooling| ??? ||||
+|PSU| Thermaltake Toughpower Grand RGB 750W 80+ Gold MB 12V RGB |$112.85 |Amazon|New|
+|PSU| Thermaltake Toughpower Grand RGB 650W 80+ Gold MB 12V RGB | |eBay|Pre-owned|
+|Water Cooling| JONSBO SHADOW 240 |¥399|JD|New|
+|Fan|CoolerMaster MasterFan MF120R ARGB x3 bundle w/ controller|¥349|JD|New|
 ||||||
 
 Notes:
