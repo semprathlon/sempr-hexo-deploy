@@ -28,7 +28,7 @@ tags:
 |PSU|Thermaltake Smart White RGB 500W 80+ White 12V ATX - PS-SPR-0500NHFAWU-1|$49.99|Walmart|Already owned|
 |RAM|G.Skill TridentZ RGB Series 16GB (2 x 8GB) 288-Pin SDRAM DDR4 3200 (PC4 25600) F4-3200C14D-16GTZR|$164.54|Amazon|New|
 |Case|BitFenix Prodigy M|$94.99|Amazon|New|
-|Mobo|MSI B450M MORTAR|¥618.99|JD|Pending|
+|Mobo|MSI B450M MORTAR|¥618.99|JD|New|
 |SSD|SAMSUNG 500GB M.2(NVMe) 970 EVO MZ-V7E500BW|¥598.99|JD|New|
 |CPU|AMD RYZEN 7 3700X w/ Wraith Prism Cooler|$324.99|Amazon|New|
 |Subtotal||~$1026|||
@@ -44,7 +44,6 @@ Notes:
 |RAM| ** The same (2 x 8GB) ** |$154.99|Amazon|New|
 |Graphics| ** Starting from GTX1660 Super, RX 5700, RTX 2060, ... ** ||||
 |PSU| Thermaltake Toughpower Grand RGB 750W 80+ Gold MB 12V RGB |$112.85 |Amazon|New|
-|PSU| Thermaltake Toughpower Grand RGB 650W 80+ Gold MB 12V RGB | |eBay|Pre-owned|
 |Water Cooling| JONSBO SHADOW 240 |¥399|JD|New|
 |Fan|CoolerMaster MasterFan MF120R ARGB x3 bundle w/ controller|¥349|JD|New|
 ||||||
