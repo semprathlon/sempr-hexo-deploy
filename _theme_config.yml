@@ -82,7 +82,7 @@ donate:
         # Donation entry name
         type: paypal
         # Paypal business ID or email address
-        business: 'silveritdean@gmail.com'
+        business: 'semprathlon@hotmail.com'
         # Currency code
         currency_code: USD
     # -
@@ -119,15 +119,15 @@ widgets:
         # Author name to be shown in the profile widget
         author: CitruXonve
         # Title of the author to be shown in the profile widget
-        author_title: FullStack Developer
+        author_title: Data Platform Engineer, Fullstack, UI/UX
         # Author's current location to be shown in the profile widget
-        location: Los Angeles, CA
+        location: Seattle, WA, US
         # Path or URL to the avatar to be shown in the profile widget
         avatar: https://ui-avatars.com/api/?name=Citru+Xonve&background=0D8ABC&color=fff&size=128
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square
-        avatar_rounded: false
+        avatar_rounded: true
         # Path or URL for the follow button
         follow_link: 'https://github.com/CitruXonve'
         # Links to be shown on the bottom of the profile widget
