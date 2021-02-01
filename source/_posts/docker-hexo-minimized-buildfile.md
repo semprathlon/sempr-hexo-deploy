@@ -1,6 +1,7 @@
 ---
 title: How to build a minimized docker image for Hexo
 tags: docker
+abbrlink: 9993cf47
 date: 2018-04-20 10:07:43
 ---
 To start with, it is not easy for greenhands to write out an appropriate buildfile for `hexo` in `docker`.  

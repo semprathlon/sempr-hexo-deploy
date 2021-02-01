@@ -1,8 +1,9 @@
 ---
 title: Replacing system-wide `nodejs` by another version managed by `nvm`
-date: 2019-09-28 15:33:32
 tags:
-    - nodejs
+  - nodejs
+abbrlink: 68043a0e
+date: 2019-09-28 15:33:32
 ---
 
 Some legacy codes are not compatible with latest nodejs.  `nvm` helps with this situation to provide older stable version.

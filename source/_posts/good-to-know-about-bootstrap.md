@@ -1,8 +1,9 @@
 ---
 title: Good to know about Bootstrap
-date: 2019-03-17 21:05:50
 tags:
-    - Bootstrap
+  - Bootstrap
+abbrlink: b7df6c60
+date: 2019-03-17 21:05:50
 ---
 - Container
 

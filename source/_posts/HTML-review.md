@@ -1,8 +1,9 @@
 ---
 title: Insider view into HTML
-date: 2019-03-10 12:10:22
 tags:
-    - HTML
+  - HTML
+abbrlink: bb56f728
+date: 2019-03-10 12:10:22
 ---
 
 - [View Source vs. Inspect Element](https://www.codebyamir.com/blog/view-source-vs-inspect-element)

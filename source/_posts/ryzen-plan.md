@@ -1,8 +1,9 @@
 ---
 title: The plan to equip Ryzen
-date: 2020-01-16 06:31:21
 tags:
-    - hardware
+  - hardware
+abbrlink: 44b662bb
+date: 2020-01-16 06:31:21
 ---
 
 ## Division 1: A Baseline NAS

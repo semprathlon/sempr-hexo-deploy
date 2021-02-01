@@ -1,8 +1,9 @@
 ---
 title: Reform on course taking
-date: 2019-08-03 16:17:30
 tags:
-    - Graduate
+  - Graduate
+abbrlink: aa43b48
+date: 2019-08-03 16:17:30
 ---
 
 - Withdraw a course if workload is too heavy.

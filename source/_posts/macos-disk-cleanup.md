@@ -1,8 +1,9 @@
 ---
 title: macos-disk-cleanup
-date: 2019-11-20 14:59:01
 tags:
-    - macOS
+  - macOS
+abbrlink: 158914ad
+date: 2019-11-20 14:59:01
 ---
 
 ## Basics: Purgeable space is not unused space.

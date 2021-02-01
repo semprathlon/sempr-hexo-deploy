@@ -1,5 +1,6 @@
 ---
 title: ryzen-build-improvement
+abbrlink: '735e7650'
 date: 2020-08-15 17:15:03
 tags:
 ---

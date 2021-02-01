@@ -1,9 +1,10 @@
 ---
 title: JDK for macOS
-date: 2019-04-28 23:15:50
 tags:
-    - jdk
-    - macOS
+  - jdk
+  - macOS
+abbrlink: 76342b91
+date: 2019-04-28 23:15:50
 ---
 
 You need the following to distinguish between built-in and user installed versions of JDK.

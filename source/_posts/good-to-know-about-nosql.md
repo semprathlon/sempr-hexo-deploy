@@ -2,6 +2,7 @@
 title: Good to know about NoSQL
 author: CitruXonve
 tag: NoSQL
+abbrlink: 5dcb825e
 date: 2019-03-08 14:45:00
 ---
 - NoSQL is non-relational

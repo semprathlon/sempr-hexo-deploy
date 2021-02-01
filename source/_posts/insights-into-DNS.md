@@ -1,9 +1,10 @@
 ---
 title: Insights into DNS
-date: 2019-04-06 14:44:57
 tags:
-    - network
-    - DNS
+  - network
+  - DNS
+abbrlink: 81193b39
+date: 2019-04-06 14:44:57
 ---
 
 * [DNS cannot mapping to subfolders](https://stackoverflow.com/questions/10927658/dns-mapping-to-subfolders)

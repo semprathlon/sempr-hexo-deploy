@@ -1,8 +1,9 @@
 ---
 title: Domestic IT corporation technical interview examples
-date: 2019-09-26 21:23:16
 tags:
-    - interview
+  - interview
+abbrlink: a1d12a45
+date: 2019-09-26 21:23:16
 ---
 https://juejin.im/entry/5893e8f2128fe10065477d08
 

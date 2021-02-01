@@ -1,10 +1,11 @@
 ---
 title: Miscellanies about Hexo deployment with purification
+tags:
+  - hexo
+  - git
+  - npm
+abbrlink: a54d5a40
 date: 2019-03-04 21:45:59
-tags: 
-    - hexo
-    - git
-    - npm
 ---
 
 - [Git switch remote origin](https://www.ethode.com/blog/git-change-remote-origin)

@@ -1,9 +1,10 @@
 ---
 title: Miscellanies about initializing an Ubuntu Server (II)
-date: 2020-09-13 19:45:47
 tags:
-    - Ubuntu
-    - Docker
+  - Ubuntu
+  - Docker
+abbrlink: '28045272'
+date: 2020-09-13 19:45:47
 ---
 
 ### Error: Permission denied ... when running Docker (repetitive)

@@ -1,8 +1,9 @@
 ---
 title: How to quickly solve Ryzen Heat Issue
-date: 2020-08-11 17:19:00
 tags:
-    - Ryzen
+  - Ryzen
+abbrlink: f5daccde
+date: 2020-08-11 17:19:00
 ---
 
 #### Do not mistakenly accuse the cooler for the most common overheating issue under Windows10. 

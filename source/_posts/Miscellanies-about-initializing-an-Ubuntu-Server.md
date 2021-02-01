@@ -3,6 +3,7 @@ title: Miscellanies about initializing an Ubuntu Server
 author: Semprathlon / Simfae Dean
 tags: []
 categories: []
+abbrlink: 4fa68e28
 date: 2018-07-08 06:38:00
 ---
 #### [Having trouble with Windows SSH: Unprotected private key file]()

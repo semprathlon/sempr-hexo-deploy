@@ -1,8 +1,9 @@
 ---
 title: Cracking Java Interview
-date: 2019-09-16 14:27:59
 tags:
-    - Java
+  - Java
+abbrlink: e6d6bf01
+date: 2019-09-16 14:27:59
 ---
 
 [A list of frequently asked Java questions](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/)

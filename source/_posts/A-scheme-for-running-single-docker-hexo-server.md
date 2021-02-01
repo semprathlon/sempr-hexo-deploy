@@ -3,6 +3,7 @@ title: A scheme for running single docker-hexo server
 author: Semprathlon / Simfae Dean
 tags: []
 categories: []
+abbrlink: 674f506d
 date: 2018-08-12 06:31:00
 ---
 Start PHP service:

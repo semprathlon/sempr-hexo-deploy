@@ -1,9 +1,10 @@
 ---
 title: Rational of OS and multi-threading and database performance
-date: 2019-09-16 14:43:08
 tags:
-    - OS
-    - Linux
+  - OS
+  - Linux
+abbrlink: 75f3b9a8
+date: 2019-09-16 14:43:08
 ---
 - Kernel state and user state
 

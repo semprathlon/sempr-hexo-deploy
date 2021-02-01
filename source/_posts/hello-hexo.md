@@ -1,6 +1,7 @@
 ---
 title: Hello Hexo
-date: 2018-04-04
+abbrlink: a1751c09
+date: 2018-04-04 00:00:00
 ---
 Welcome to [Hexo](https://hexo.io/)! This is the very first post after the blog being rebuilt based on Hexo. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

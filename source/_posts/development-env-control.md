@@ -1,10 +1,11 @@
 ---
 title: Development Environment Management
-date: 2020-08-04 20:13:05
 tags:
-    - node
-    - java
-    - python
+  - node
+  - java
+  - python
+abbrlink: 85d30cd2
+date: 2020-08-04 20:13:05
 ---
 
 Building environment setup can be very subtle and in-depth.  Even the same `python 3.6` has a different dependent static library on Linux than on Mac.

@@ -1,8 +1,9 @@
 ---
 title: Insight into advanced C++ OOP
-date: 2019-09-29 17:29:39
 tags:
-    - Cpp
+  - Cpp
+abbrlink: d9dccee6
+date: 2019-09-29 17:29:39
 ---
 
 # Source and Header

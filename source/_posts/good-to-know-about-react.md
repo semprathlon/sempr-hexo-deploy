@@ -1,10 +1,12 @@
 ---
 title: Good to know about ReactJS
-date: 2019-03-31 16:49:09
 tags:
-    - js
-    - react
-categories: [Development]
+  - js
+  - react
+categories:
+  - Development
+abbrlink: 34fdc01b
+date: 2019-03-31 16:49:09
 ---
 - Declarative
 
