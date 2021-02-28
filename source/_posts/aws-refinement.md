@@ -45,6 +45,12 @@ AWS CloudFormation treats infrastructure / environment as code.
 
 ## AWS DBaaS
 
+### RDS
+
+RDS Backups are automated, daily full backup; transaction logs are backed-up every 5 min. 7-35 days of retention. Manual DB snapshots have retention as long as possible.
+
+RDS can have up to 5 read replicas, within AZ, cross AZ or cross origin. Async replication. Reads are eventually consistent. Replicas can be promoted. **It is possible to setup multi-AZ read replicas for Disaster Recovery(DR).**
+
 ### DynamoDB
 
 DynamoDB is fully-managed scalable, fast and predictable performance NoSQL database. High availability and durability by 3 geographic replicas for each table. Eventually consistent or strong consistent choices. Secondary index for queries other than partition key and sort key.
@@ -64,6 +70,14 @@ SNS is kind of like SQS but SNS has topics and those topics can have subscribers
 
 Users or Groups are attached to Policies.
 Services assume Roles to gain access to other services, and roles have policies.
+
+## AWS Storage
+
+EBS (Elastic Block Store) Volume is a network drive (i.e. not a physical drive) allowing to persist data. Has latency. **Locked to specific AZ.** (Need to migrate via I/O) Billed for all provisioned capacity in GBs and IOPS. Can increase capacity over time.
+
+EFS (Elastic Network File System) works in multi-AZ. Pay per use.
+
+Instance store is *ephemeral* (lost after termination) storage physically attached to the machine, **best for intensive IOPS performance.**
 
 ## Extra
 
