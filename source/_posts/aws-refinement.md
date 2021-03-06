@@ -1,5 +1,5 @@
 ---
-title: Refinements in Data Analytics and Learning Paths towards AWS Certification
+title: Learning Paths towards AWS Certification
 date: 2021-02-20 16:29:06
 tags:
     - Data Analytics
@@ -9,24 +9,6 @@ categories:
         - Cloud
     - Notes
 ---
-
-## Data Analytics at a Glance
-
-**Analysis** is a detailed examination of something in order to understand its nature or determine its essential features. Data analysis is the process of compiling, processing, and analyzing data so that you can use it to make decisions.
-
-**Analytics** is the systematic analysis of data. Data analytics is the specific analytical process being applied.
-
-Data analysis solutions, which are broader than big data solutions, are made up of gathering, storing, processing, and visualizing data.
-
-The challenges identified in many data analysis solutions can be summarized by five key challenges: *volume*, *velocity*, *variety*, *veracity*, and *value*.
-
-### Structured vs Semi-structured vs Unstructured data
-
-- Structured data is organized and stored in the form of values that are grouped into rows and columns of a table. *Commonly stored in relational databases.*
-
-- Semi-structured data is often stored in a series of key-value pairs that are grouped into elements within a file. *Often stored in NoSQL databases or CSV, XML or JSON files.*
-
-- Unstructured data is not structured in a consistent way. Some data may have structure similar to semi-structured data but others may only contain metadata. *Often takes the form of files or objects.*
 
 ## AWS IaaS
 
